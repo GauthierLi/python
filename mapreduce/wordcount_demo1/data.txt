@@ -1,0 +1,7 @@
+hello	world
+hello	python
+hello	java
+hello	hadoop
+hello	bigdata
+hi	python
+hi	mapreduce
