@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a6cbc8b-51ff-4e40-937f-797439c3c736" name="Default Changelist" comment="" />
+    <list default="true" id="0a6cbc8b-51ff-4e40-937f-797439c3c736" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../算法/最小2乘法/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../股票分析/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../自然语言处理/hanlpTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV_test/.idea/OpenCV_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV_test/.idea/OpenCV_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV_test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV_test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV_test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV_test/OpenCV_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV_test/OpenCV_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OpenCV_test/yg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenCV_test/yg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Python2]《机器学习实战》及源代码/[emuch.net]机器学习实战.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Python2]《机器学习实战》及源代码/machinelearninginaction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/draw.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/draw.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic.png" beforeDir="false" afterPath="$PROJECT_DIR$/pic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验数据/实验数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/../实验数据/实验数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../新建文件夹/analsys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../新建文件夹/calcCombination.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬虫/爬虫实验/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬虫/爬虫实验/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬虫/爬虫实验/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬虫/爬虫实验/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬虫/爬虫实验/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬虫/爬虫实验/.idea/爬虫实验.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬虫/爬虫实验/spider_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../神经网络/BP算法.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../神经网络/BP算法/.idea/BP算法.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../神经网络/BP算法/.idea/BP算法.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../神经网络/BP算法/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../神经网络/BP算法/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../神经网络/BP算法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../神经网络/BP算法/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/ICM_Currrent/program/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/ICM_Currrent/program/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/最小2乘法/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/最小2乘法/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/最小2乘法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/最小2乘法/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/最小2乘法/.idea/最小2乘法.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/最小2乘法/.idea/最小2乘法.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../股票分析/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../股票分析/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../股票分析/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../股票分析/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../股票分析/.idea/股票分析.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../股票分析/.idea/股票分析.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,38 +49,16 @@
     <SUITE FILE_PATH="coverage/draw$stirling.coverage" NAME="stirling公式 Coverage Results" MODIFIED="1584864222539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/draw$draw.coverage" NAME="draw Coverage Results" MODIFIED="1583410539923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/draw$3D.coverage" NAME="3D Coverage Results" MODIFIED="1583412416956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/draw$SIR.coverage" NAME="SIR画图 Coverage Results" MODIFIED="1583838519459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/draw$SIR.coverage" NAME="SIR画图 Coverage Results" MODIFIED="1631961346796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.py">
+        <entry file="file://$PROJECT_DIR$/../神经网络/BP算法/BackPropagation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+            <state relative-caret-position="-550">
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/anaconda/Lib/site-packages/matplotlib/axes/_base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42450">
-              <caret line="1736" selection-start-line="1736" selection-end-line="1736" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/draw.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#25#56#0" expanded="true" />
+                <element signature="e#15#33#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,6 +73,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -71,28 +88,19 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+    <option name="x" value="106" />
+    <option name="y" value="105" />
     <option name="width" value="980" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="draw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="draw" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -100,7 +108,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.SIR画图">
     <configuration name="3D" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="draw" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,9 +235,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SIR画图" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.stirling公式" />
-        <item itemvalue="Python.SIR画图" />
         <item itemvalue="Python.3D" />
         <item itemvalue="Python.draw" />
       </list>
@@ -255,21 +263,24 @@
       <workItem from="1590903592938" duration="4740000" />
       <workItem from="1590909723564" duration="768000" />
       <workItem from="1591981442010" duration="61000" />
+      <workItem from="1631961316936" duration="54000" />
+      <workItem from="1631964539757" duration="644000" />
+      <workItem from="1631966753747" duration="381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15175000" />
+    <option name="totallyTimeSpent" value="16254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13739946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07037534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3282123" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -283,7 +294,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.36595175" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.19906166" />
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -313,16 +324,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SIR画图.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/anaconda/Lib/site-packages/matplotlib/axes/_base.py" />
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -333,19 +335,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/anaconda/Lib/site-packages/matplotlib/axes/_base.py">
+    <entry file="file://$PROJECT_DIR$/SIR画图.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42450">
-          <caret line="1736" selection-start-line="1736" selection-end-line="1736" />
+        <state relative-caret-position="92">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/draw.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
+        <state relative-caret-position="75">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#25#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../神经网络/BP算法/BackPropagation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-550">
+          <folding>
+            <element signature="e#15#33#0" expanded="true" />
           </folding>
         </state>
       </provider>

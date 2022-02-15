@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b6e9e80-70d7-46ce-96c1-02e36172c09d" name="Default Changelist" comment="" />
+    <list default="true" id="9b6e9e80-70d7-46ce-96c1-02e36172c09d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../最小2乘法/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../股票分析/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自然语言处理/hanlpTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OpenCV_test/.idea/OpenCV_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OpenCV_test/.idea/OpenCV_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OpenCV_test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OpenCV_test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OpenCV_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OpenCV_test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OpenCV_test/OpenCV_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OpenCV_test/OpenCV_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OpenCV_test/yg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OpenCV_test/yg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../[Python2]《机器学习实战》及源代码/[emuch.net]机器学习实战.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../[Python2]《机器学习实战》及源代码/machinelearninginaction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../draw/pic.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../draw/pic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../实验数据/实验数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../实验数据/实验数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../新建文件夹/analsys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../新建文件夹/calcCombination.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../爬虫/爬虫实验/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../爬虫/爬虫实验/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../爬虫/爬虫实验/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../爬虫/爬虫实验/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../爬虫/爬虫实验/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../爬虫/爬虫实验/.idea/爬虫实验.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../爬虫/爬虫实验/spider_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../神经网络/BP算法.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../神经网络/BP算法/.idea/BP算法.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../神经网络/BP算法/.idea/BP算法.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../神经网络/BP算法/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../神经网络/BP算法/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../神经网络/BP算法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../神经网络/BP算法/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../最小2乘法/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../最小2乘法/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../最小2乘法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../最小2乘法/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../最小2乘法/.idea/最小2乘法.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../最小2乘法/.idea/最小2乘法.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../股票分析/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../股票分析/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../股票分析/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../股票分析/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../股票分析/.idea/股票分析.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../股票分析/.idea/股票分析.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +45,7 @@
     <SUITE FILE_PATH="coverage/program$passing_events_analysing2.coverage" NAME="passing_events_analysing2 Coverage Results" MODIFIED="1602932379852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/program$test.coverage" NAME="test Coverage Results" MODIFIED="1581938524518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/program$promote_predict.coverage" NAME="promote_predict Coverage Results" MODIFIED="1581824019433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../最小2乘法" />
-    <SUITE FILE_PATH="coverage/program$nerve_net.coverage" NAME="nerve_net Coverage Results" MODIFIED="1615009472930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/program$nerve_net.coverage" NAME="nerve_net Coverage Results" MODIFIED="1631959901082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/program$NeuralNetwork.coverage" NAME="NeuralNetwork Coverage Results" MODIFIED="1581687713925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../神经网络/感知器（测试）" />
     <SUITE FILE_PATH="coverage/program$relationship_net.coverage" NAME="relationship_net Coverage Results" MODIFIED="1581934385698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/program$.coverage" NAME="传球频率与传球距离计算疲劳程度 Coverage Results" MODIFIED="1581825238774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -43,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/full_events_analysing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6175">
-              <caret line="251" selection-start-line="251" selection-end-line="251" />
+            <state relative-caret-position="3850">
+              <caret line="154" column="43" selection-start-line="154" selection-start-column="43" selection-end-line="154" selection-end-column="43" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -52,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nerve_net.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2900">
-              <caret line="116" column="49" selection-start-line="116" selection-start-column="49" selection-end-line="116" selection-end-column="49" />
+              <caret line="116" column="24" lean-forward="true" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
               <folding>
                 <element signature="e#35#53#0" expanded="true" />
               </folding>
@@ -67,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Least squares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="500">
               <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -79,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/passing_events_analysing2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4900">
+            <state relative-caret-position="4975">
               <caret line="199" selection-start-line="199" selection-end-line="199" />
               <folding>
                 <element signature="e#106#308#0" expanded="true" />
@@ -88,11 +120,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/relationship_net.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="47" />
+            <state relative-caret-position="125">
+              <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -101,8 +133,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/passingevents.csv">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/vusualization_program.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -120,7 +159,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/passing_events_analysing1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14275">
+            <state relative-caret-position="616">
               <caret line="576" column="73" selection-start-line="576" selection-start-column="36" selection-end-line="576" selection-end-column="73" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -154,6 +193,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -179,11 +221,13 @@
     <option name="width" value="980" />
     <option name="height" value="1060" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,7 +248,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -371,11 +414,12 @@
       <workItem from="1615003091510" duration="38000" />
       <workItem from="1615009449540" duration="103000" />
       <workItem from="1617442448011" duration="14000" />
+      <workItem from="1631959789558" duration="350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195396000" />
+    <option name="totallyTimeSpent" value="195746000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -389,12 +433,12 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18364611" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18632708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.25662482" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.2555866" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -408,7 +452,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.29959786" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.29959786" />
       <window_info anchor="right" id="R Graphics" order="4" weight="0.3297587" />
       <window_info anchor="right" id="R Packages" order="5" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
@@ -488,56 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vusualization_program.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/full_events_analysing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6175">
-          <caret line="251" selection-start-line="251" selection-end-line="251" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Least squares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/passing_events_analysing2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4900">
-          <caret line="199" selection-start-line="199" selection-end-line="199" />
-          <folding>
-            <element signature="e#106#308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/relationship_net.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/passingevents.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -551,10 +545,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/passing_events_analysing1.py">
+    <entry file="file://$PROJECT_DIR$/matches.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/full_events_analysing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14275">
-          <caret line="576" column="73" selection-start-line="576" selection-start-column="36" selection-end-line="576" selection-end-column="73" />
+        <state relative-caret-position="3850">
+          <caret line="154" column="43" selection-start-line="154" selection-start-column="43" selection-end-line="154" selection-end-column="43" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -570,15 +567,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/matches.csv">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/passing_events_analysing1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="576" column="73" selection-start-line="576" selection-start-column="36" selection-end-line="576" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nerve_net.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2900">
-          <caret line="116" column="49" selection-start-line="116" selection-start-column="49" selection-end-line="116" selection-end-column="49" />
+          <caret line="116" column="24" lean-forward="true" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
           <folding>
             <element signature="e#35#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Least squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passing_events_analysing2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4975">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+          <folding>
+            <element signature="e#106#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vusualization_program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/relationship_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -200,14 +200,14 @@ class NerveNet:
 
 if __name__ == '__main__':
     a = NerveNet(2, [2, 1])
-    teacher_list = np.array([[[0.5, 0.05], [1.0]], [[0.05, 0.5], [1.0]], [[0.95, 0.5], [0.0]], [[0.5, 0.95], [0.0]]])
+    teacher_list = np.array([[[0.5, 0.05], [1.0]], [[0.05, 0.5], [0.0]], [[0.95, 0.5], [1.0]], [[0.5, 0.95], [0.0]]])
     a.creat()
     epsilon = 0.05
     b = 100
     i = 0
     while b > epsilon and i < 10000:
         i += 1
-        b = a.one_times_learning(teacher_list, study_vilocity=0.4)
+        b = a.one_times_learning(teacher_list, study_vilocity=0.2)
         a.matrix_of_nerve_cell[1][0].print_para()
     print(a.output_of_nerve_net([0.95, 0.5]))
     print(b, i)

@@ -32,4 +32,5 @@ for i in gray_img:
             gray_img[i][j] = 1
         else:
             gray_img[i][j] = 0
-cv2.imshow(gray_img)
+cv2.imshow('gray_img',gray_img)
+cv2.waitKey()

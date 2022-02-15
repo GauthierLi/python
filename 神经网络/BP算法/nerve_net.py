@@ -6,20 +6,6 @@ import random
 random.seed()
 
 
-# class of queue simple
-class Queue():
-    def __init__(self, size):
-        self.size = size
-        self.queue = []
-
-    def enqueue(self, x):
-        if len(self.queue) < self.size:
-            self.queue.append(x)
-        else:
-            del self.queue[0]
-            self.queue.append(x)
-
-
 # nerve net of four floor
 class NerveNet():
 
@@ -112,21 +98,22 @@ class NerveNet():
             self.threshold_matrix[i + 1] = (self.threshold_matrix[i + 1] + beta * np.array(
                 self.error_matrix[i + 1])).tolist()
 
-    def learning_n_times(self, learning_set, expect_error):
+    def learning_n_times(self, learning_set, expect_error, speed=0.4):
         monitor = []
         time = 0
         while np.abs(self.error_matrix[self.lenth - 1][0]) >= expect_error and time < 25000:
             for ele in learning_set:
                 time += 1
-                self.learning_once(ele)
-                monitor.append(self.error_matrix[self.lenth - 1][0])
+                self.learning_once(ele, speed)
+                monitor.append(self.error_matrix[-1][0])
+                # monitor.append(self.weight_matrix[0][0][0])
         return monitor
 
 
 if __name__ == '__main__':
     # test for nerve net
-    a_net = NerveNet([2, 3, 2])
-    Y = a_net.learning_n_times([[[0, 0.5], [-1, 0]], [[0.5, 1], [0, 1]], [[0.5, 0], [-1, 0]], [[1, 0.5], [0, 1]]],
+    a_net = NerveNet([2, 3, 1])
+    Y = a_net.learning_n_times([[[0, 0.5], [-1]], [[0.5, 1], [1]], [[0.5, 0], [-1]], [[1, 0.5], [1]]],
                                1e-03)
     X = [i for i in range(len(Y))]
     plt.plot(X, Y)
@@ -139,3 +126,4 @@ if __name__ == '__main__':
     print(a_net.data_input([0.5, 1]))
     print(a_net.data_input([0.5, 0]))
     print(a_net.data_input([1, 0.5]))
+    print("predict: {}".format(a_net.data_input([1.2, 0.44])))

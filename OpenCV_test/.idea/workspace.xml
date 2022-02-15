@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="793fa3de-ce43-45af-b51c-50c77546d110" name="Default Changelist" comment="" />
+    <list default="true" id="793fa3de-ce43-45af-b51c-50c77546d110" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../算法/最小2乘法/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../股票分析/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../自然语言处理/hanlpTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OpenCV_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OpenCV_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenCV_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenCV_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/yg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Python2]《机器学习实战》及源代码/[emuch.net]机器学习实战.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[Python2]《机器学习实战》及源代码/machinelearninginaction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../draw/pic.png" beforeDir="false" afterPath="$PROJECT_DIR$/../draw/pic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实验数据/实验数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/../实验数据/实验数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../新建文件夹/analsys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../新建文件夹/calcCombination.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬虫/爬虫实验/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬虫/爬虫实验/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬虫/爬虫实验/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬虫/爬虫实验/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬虫/爬虫实验/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬虫/爬虫实验/.idea/爬虫实验.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../爬虫/爬虫实验/spider_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/最小2乘法/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/最小2乘法/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/最小2乘法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/最小2乘法/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../算法/最小2乘法/.idea/最小2乘法.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../算法/最小2乘法/.idea/最小2乘法.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../股票分析/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../股票分析/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../股票分析/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../股票分析/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../股票分析/.idea/股票分析.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../股票分析/.idea/股票分析.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,15 +37,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/OpenCV_test$OpenCV_test.coverage" NAME="OpenCV_test Coverage Results" MODIFIED="1587813314997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OpenCV_test$OpenCV_test.coverage" NAME="OpenCV_test Coverage Results" MODIFIED="1631324155276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OpenCV_test$tftset.coverage" NAME="tftset Coverage Results" MODIFIED="1631323748286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OpenCV_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+            <state relative-caret-position="325">
+              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../asiamap_/read.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-400">
+              <caret line="344" column="21" lean-forward="true" selection-start-line="344" selection-start-column="21" selection-end-line="344" selection-end-column="21" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -34,25 +75,31 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/OpenCV_test.py" />
+        <option value="$PROJECT_DIR$/tftset.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+    <option name="x" value="325" />
+    <option name="y" value="-15" />
     <option name="width" value="980" />
     <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -60,10 +107,15 @@
               <item name="OpenCV_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="OpenCV_test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OpenCV_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -84,7 +136,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.OpenCV_test">
     <configuration name="OpenCV_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OpenCV_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,9 +159,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tftset" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCV_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tftset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.OpenCV_test" />
+        <item itemvalue="Python.tftset" />
       </list>
     </recent_temporary>
   </component>
@@ -124,48 +199,76 @@
       <option name="presentableId" value="Default" />
       <updated>1587809565075</updated>
       <workItem from="1587809592287" duration="4229000" />
+      <workItem from="1628485165700" duration="3456000" />
+      <workItem from="1631323698727" duration="668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4229000" />
+    <option name="totallyTimeSpent" value="8353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23324022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tftset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../knn分类/ml/knn.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../asiamap_/interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/OpenCV_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        <state relative-caret-position="325">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../asiamap_/read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="344" column="21" lean-forward="true" selection-start-line="344" selection-start-column="21" selection-end-line="344" selection-end-column="21" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>

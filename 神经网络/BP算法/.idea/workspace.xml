@@ -1,8 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ca328f9-7b6c-481e-9e8c-8c5e07149ed2" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="8ca328f9-7b6c-481e-9e8c-8c5e07149ed2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../算法/最小2乘法/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../股票分析/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../自然语言处理/hanlpTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV_test/.idea/OpenCV_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenCV_test/.idea/OpenCV_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV_test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenCV_test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenCV_test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV_test/OpenCV_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenCV_test/OpenCV_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenCV_test/yg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenCV_test/yg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[Python2]《机器学习实战》及源代码/[emuch.net]机器学习实战.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../[Python2]《机器学习实战》及源代码/machinelearninginaction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../draw/.idea/draw.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../draw/.idea/draw.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../draw/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../draw/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../draw/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../draw/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../draw/pic.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../draw/pic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../实验数据/900956.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../新建文件夹/analsys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../新建文件夹/calcCombination.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/爬虫实验/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/爬虫实验/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/爬虫实验/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/爬虫实验/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/爬虫实验/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/爬虫实验/.idea/爬虫实验.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../爬虫/爬虫实验/spider_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法/ICM_Currrent/program/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法/ICM_Currrent/program/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法/最小2乘法/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法/最小2乘法/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法/最小2乘法/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法/最小2乘法/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法/最小2乘法/.idea/最小2乘法.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法/最小2乘法/.idea/最小2乘法.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../股票分析/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../股票分析/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../股票分析/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../股票分析/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../股票分析/.idea/股票分析.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../股票分析/.idea/股票分析.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +41,15 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/BP$beta_of_nerve_net.coverage" NAME="beta_of_nerve_net Coverage Results" MODIFIED="1583056410043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BP$BackPropagation.coverage" NAME="BackPropagation Coverage Results" MODIFIED="1581398951245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BP$multiPerceptrons.coverage" NAME="multiPerceptrons Coverage Results" MODIFIED="1633953962195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/code/python/machineLearning" />
+    <SUITE FILE_PATH="coverage/BP$BackPropagation.coverage" NAME="BackPropagation Coverage Results" MODIFIED="1634827642996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BP$numbers_of_been_infected_first_predict.coverage" NAME="numbers_of_been_infected_first_predict Coverage Results" MODIFIED="1580638612887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../算法/最小2乘法" />
-    <SUITE FILE_PATH="coverage/BP$test.coverage" NAME="test Coverage Results" MODIFIED="1583059104913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BP$bar.coverage" NAME="bar Coverage Results" MODIFIED="1634995398502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/code/python/bar" />
+    <SUITE FILE_PATH="coverage/BP$test.coverage" NAME="test Coverage Results" MODIFIED="1633949476975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BP$Back_propagation.coverage" NAME="Back propagation Coverage Results" MODIFIED="1580708788563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BP$passing_events_analysing2.coverage" NAME="passing_events_analysing2 Coverage Results" MODIFIED="1583054648880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../算法/ICM_Currrent/program" />
-    <SUITE FILE_PATH="coverage/BP$nerve_net.coverage" NAME="nerve_net Coverage Results" MODIFIED="1583059174866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BP$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1634830082542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BP$nerve_net.coverage" NAME="nerve_net Coverage Results" MODIFIED="1634826551773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -31,22 +65,6 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nerve_net.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="44" column="65" selection-start-line="44" selection-start-column="65" selection-end-line="44" selection-end-column="65" />
-              <folding>
-                <element signature="e#35#53#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -54,53 +72,55 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../../算法/最小2乘法/numbers_of_been_infected_first_predict.py" />
         <option value="$PROJECT_DIR$/Back propagation.py" />
-        <option value="$PROJECT_DIR$/BackPropagation.py" />
         <option value="$PROJECT_DIR$/../../算法/ICM_Currrent/program/passing_events_analysing2.py" />
         <option value="$PROJECT_DIR$/beta_of_nerve_net.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/BackPropagation.py" />
         <option value="$PROJECT_DIR$/nerve_net.py" />
+        <option value="$PROJECT_DIR$/test1.py" />
+        <option value="G:/code/python/bar/bar.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1050" />
+    <option name="width" value="979" />
+    <option name="height" value="1060" />
   </component>
+  <component name="ProjectId" id="20x8zVePbOS8MwIqlrwSvIhrxH6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.nerve_net">
+  <component name="RunManager" selected="Python.bar">
     <configuration name="BackPropagation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BP算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="beta_of_nerve_net" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BP算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,12 +151,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="G:/code/python/bar" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beta_of_nerve_net.py" />
+      <option name="SCRIPT_NAME" value="G:/code/python/bar/bar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiPerceptrons" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BP算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="G:/code/python/machineLearning" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:/code/python/machineLearning/multiPerceptrons.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,29 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="passing_events_analysing2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="BP算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../算法/ICM_Currrent/program" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../算法/ICM_Currrent/program/passing_events_analysing2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BP算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,7 +222,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,14 +233,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.nerve_net" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.beta_of_nerve_net" />
-        <item itemvalue="Python.passing_events_analysing2" />
+        <item itemvalue="Python.bar" />
+        <item itemvalue="Python.test1" />
         <item itemvalue="Python.BackPropagation" />
+        <item itemvalue="Python.nerve_net" />
+        <item itemvalue="Python.multiPerceptrons" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -248,11 +269,20 @@
       <workItem from="1583028412655" duration="836000" />
       <workItem from="1583029276822" duration="1475000" />
       <workItem from="1583030783015" duration="18135000" />
+      <workItem from="1631958839036" duration="477000" />
+      <workItem from="1633945833120" duration="1560000" />
+      <workItem from="1633949407315" duration="415000" />
+      <workItem from="1633951403971" duration="591000" />
+      <workItem from="1633952016294" duration="2745000" />
+      <workItem from="1634826496835" duration="4147000" />
+      <workItem from="1634991641907" duration="2199000" />
+      <workItem from="1636975147642" duration="517000" />
+      <workItem from="1636977457873" duration="2000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88836000" />
+    <option name="totallyTimeSpent" value="100970000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -266,12 +296,12 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24798928" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08914209" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.32775453" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.30865923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -286,30 +316,14 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.14745308" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.40214476" />
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" id="Database" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/nerve_net.py</url>
-          <line>111</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/nerve_net.py</url>
-          <line>110</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../算法/scipy和sympy和其他学习/类和其他的一些学习.py">
@@ -330,16 +344,6 @@
     <entry file="file://$PROJECT_DIR$/Back propagation.py" />
     <entry file="file://$PROJECT_DIR$/../感知器（测试）/NeuralNetwork.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BackPropagation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4100">
-          <caret line="165" selection-start-line="165" selection-end-line="165" />
-          <folding>
-            <element signature="e#15#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../program_of_MIC2020/passing_events_analysing1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -390,22 +394,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/../../算法/模拟退火算法/求函数最小值.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="336" lean-forward="true" selection-start-line="336" selection-end-line="336" />
+        <state relative-caret-position="617">
+          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
           <folding>
-            <element signature="e#15#38#0" expanded="true" />
+            <element signature="e#73#86#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nerve_net.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="44" column="65" selection-start-line="44" selection-start-column="65" selection-end-line="44" selection-end-column="65" />
+        <state relative-caret-position="2650">
+          <caret line="108" column="56" selection-start-line="108" selection-start-column="56" selection-end-line="108" selection-end-column="56" />
           <folding>
             <element signature="e#35#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/code/python/machineLearning/TensorFlowModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/code/python/machineLearning/multiPerceptrons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BackPropagation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5250">
+          <caret line="211" column="45" selection-start-line="211" selection-start-column="45" selection-end-line="211" selection-end-column="45" />
+          <folding>
+            <element signature="e#15#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3925">
+          <caret line="158" column="18" selection-start-line="158" selection-start-column="18" selection-end-line="158" selection-end-column="18" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/code/python/machineLearning/tfBaseLearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/code/python/bar/bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
